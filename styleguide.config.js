@@ -7,5 +7,5 @@ module.exports = {
       components: "src/components/**/*.js",
       exampleMode: "hide",
     },
-  ]
+  ],
 }

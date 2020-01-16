@@ -1,5 +1,5 @@
-import React from 'react'
+import React from "react"
 
-const Button = ({children}) => <button>{children}</button>
+const Button = ({ children }) => <button>{children}</button>
 
 export default Button
