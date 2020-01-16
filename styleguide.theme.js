@@ -3,7 +3,7 @@ export default {
     link: "#333",
     sidebarBackground: "#AECFFF",
     border: "transparent",
-    base: "#333",
+    base: "#FFF",
     baseBackground: "#AECFFF",
   },
 }
