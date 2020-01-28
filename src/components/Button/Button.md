@@ -1,3 +1,6 @@
 ```jsx
-<Button>Here</Button>
+<Button default>Here</Button>
+
+<Button primary>Here</Button>
+
 ```

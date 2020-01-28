@@ -15,7 +15,8 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "start:playground": "npx styleguidist server"
+    "start:playground": "npx styleguidist server",
+    "build:p;ayground": "npx styleguidist build"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -33,6 +34,7 @@
     ]
   },
   "devDependencies": {
-    "react-styleguidist": "^10.6.0"
+    "react-styleguidist": "^10.6.0",
+    "styled-components": "^5.0.0"
   }
 }
