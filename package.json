@@ -34,6 +34,7 @@
     ]
   },
   "devDependencies": {
-    "react-styleguidist": "^10.6.0"
+    "react-styleguidist": "^10.6.0",
+    "styled-components": "^5.0.0"
   }
 }
