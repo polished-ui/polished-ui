@@ -8,6 +8,7 @@
   sizeText={16}
   hoverColor="#767676"
   radius={5}
+  onClick={() => alert("Boom")}
 >
   Hello
 </Button>
