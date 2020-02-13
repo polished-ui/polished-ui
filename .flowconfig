@@ -1,0 +1,15 @@
+[ignore]
+.*/node_modules/.*
+
+
+[include]
+./node_modules/fbjs/flow/lib
+flow/decls
+
+[libs]
+
+[lints]
+
+[options]
+
+[strict]
